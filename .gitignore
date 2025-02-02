@@ -1,0 +1,13 @@
+.DS_Store
+path/
+venv/
+__pycache__/
+__pycache__/*
+.env
+.venv
+
+*/path/
+*/venv/
+
+agents.db
+.ipynb_checkpoints/
